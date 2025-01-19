@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I’m a web developer,  with a strong passion for building dynamic and efficient web applications. I specialize in using the Next.js framework, which allows me to create powerful full-stack applications with optimized performance.<br><br>Currently, I’m expanding my skill set by learning React Native, and leveraging my expertise in ReactJS to transition into mobile app development seamlessly. This shift allows me to broaden the impact of my work and deliver solutions across both web and mobile platforms.<br><br>With over 3 years of experience working in JavaScript, TypeScript, React, and Next.js, I am dedicated to delivering high-quality, scalable applications that solve real-world problems. My goal is to continue growing as a developer, contributing to innovative projects that make a meaningful difference.
+I’m a web developer,  with a strong passion for building dynamic and efficient web applications. I specialize in using the Next.js framework, which allows me to create powerful full-stack applications with optimized performance.<br><br>With over 3 years of experience working in JavaScript, TypeScript, React, and Next.js, I am dedicated to delivering high-quality, scalable applications that solve real-world problems. My goal is to continue growing as a developer, contributing to innovative projects that make a meaningful difference.
 
 
 ## 🌐 Socials:
